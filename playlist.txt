@@ -1,6 +1,17 @@
 SONG == ARTIST
 tumsa koi pyara
 more oldies barsat ka mausam hai
+<<<<<<< HEAD
 hai
 hai
 hai
+=======
+mai koi aisa geet gaun
+pal pal dil ke paas
+more oldies are here
+mere khwabon mai
+suniye to 
+chaand tare
+hello hi
+hello more
+>>>>>>> f781cf88e4687831bb6ea329f0137945a8d70da0
